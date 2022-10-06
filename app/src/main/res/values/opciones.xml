@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combo_opciones" >
+        <item> opcion 1  </item>
+        <item> opcion 2  </item>
+        <item> opcion 3  </item>
+        <item> opcion 4  </item>
+        <item> opcion 5  </item>
+
+
+
+    </string-array>
+
+
+</resources>
